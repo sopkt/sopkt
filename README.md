@@ -1,8 +1,12 @@
 <!-- 顶部波浪 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=180&section=header&text=Hi%2C%20I%27m%20YourName%20%F0%9F%91%8B&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=180&section=header&text=Hi%2C%20I%27m%20spokt%20%F0%9F%91%8B&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <!-- Google 字体主标题：spokt -->
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=500&lines=spokt" alt="spokt" />
+  <br/>
+  <!-- 动态介绍，使用 Fira Code -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,6 +17,12 @@
 </p>
 
 <h3 align="center">✨ 关于我 / About Me</h3>
+
+<p align="center">
+  🌱 我是一名热爱开源的全栈开发者，喜欢把想法变成产品。<br/>
+  💬 欢迎和我交流技术、产品和创意。<br/>
+  ⚡ Fun fact: 我也是一个咖啡爱好者 ☕
+</p>
 
 <h3 align="center">🛠️ 技术栈 / Tech Stack</h3>
 
