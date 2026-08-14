@@ -18,12 +18,6 @@
 
 <h3 align="center">✨ 关于我 / About Me</h3>
 
-<p align="center">
-  🌱 我是一名热爱开源的全栈开发者，喜欢把想法变成产品。<br/>
-  💬 欢迎和我交流技术、产品和创意。<br/>
-  ⚡ Fun fact: 我也是一个咖啡爱好者 ☕
-</p>
-
 <h3 align="center">🛠️ 技术栈 / Tech Stack</h3>
 
 <p align="center">
