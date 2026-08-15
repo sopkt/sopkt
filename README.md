@@ -17,6 +17,7 @@
 </p>
 
 <h3 align="center">✨ 关于我 / About Me</h3>
+拿AI搞点东西玩玩
 
 <h3 align="center">🛠️ 技术栈 / Tech Stack</h3>
 
