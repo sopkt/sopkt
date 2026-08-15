@@ -7,8 +7,6 @@
 ### 👨‍💻 关于我
 
 - 🏠 来自 **山东临沂** · 16岁  
-  📍 地图一览：  
-  ![临沂地图](https://staticmap.openstreetmap.de/staticmap.php?center=35.07,118.35&zoom=10&size=400x200)
 
 - 🧠 沉迷 **AI** 与 **计算机系统**  
 - ⚡ 不知道 · 写 · 什么了  
